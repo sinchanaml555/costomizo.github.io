@@ -1,0 +1,73 @@
+
+
+#lis{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:"";
+    list-style: none;
+}
+#body{
+    background-image:https://cdn.wallpapersafari.com/51/1/1T4NnK.jpg;
+}
+    nav{
+       
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#main1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-a;
+}
+
+li{
+    margin: 25px;
+    padding: 10px;
+}
+li{
+    text-size-adjust:"20px" ;
+}
+#aup{
+    text-decoration-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+}
+
+#name{
+    text-align: center;
+    flex-direction: center ;
+    font-size:50px;
+}
+
+#recomendations{
+    font-size: 25px;
+    justify-content: space-around;
+}
+
+
+#image{
+    font: size 100%;
+    text-decoration-color: brown;
+
+}
+
+#back{
+    background:rgba(0,0,0,0.7)url(bld.jpeg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
